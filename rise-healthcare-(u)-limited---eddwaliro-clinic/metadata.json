@@ -1,0 +1,8 @@
+{
+  "name": "Rise Healthcare (U) Limited - Eddwaliro Clinic",
+  "description": "RISE HEALTHCARE (U) Limited: 24/7 trusted African healthcare clinic in Ndejje Zanta, Entebbe Rd, Uganda. Maternity, Laboratory, Inpatient Ward, Consultations, and Community Outreach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
